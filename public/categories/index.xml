@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Beach Home | Alina&#39;s Personal Blog</title>
+    <link>https://beach-home-alina.org/categories/</link>
+    <description>Recent content in Categories on Beach Home | Alina&#39;s Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate>
+    
+	<atom:link href="https://beach-home-alina.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Article</title>
+      <link>https://beach-home-alina.org/categories/article/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://beach-home-alina.org/categories/article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fashion</title>
+      <link>https://beach-home-alina.org/categories/fashion/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://beach-home-alina.org/categories/fashion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Food</title>
+      <link>https://beach-home-alina.org/categories/food/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://beach-home-alina.org/categories/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nature</title>
+      <link>https://beach-home-alina.org/categories/nature/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://beach-home-alina.org/categories/nature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philosophy</title>
+      <link>https://beach-home-alina.org/categories/philosophy/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://beach-home-alina.org/categories/philosophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Valuable Idea</title>
+      <link>https://beach-home-alina.org/categories/valuable-idea/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://beach-home-alina.org/categories/valuable-idea/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
