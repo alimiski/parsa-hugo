@@ -9,7 +9,6 @@ categories:
 tags:
 - Photos
 - Article
-draft: true
 
 ---
 The content
