@@ -1,5 +1,5 @@
 # default config
-baseURL = "https://infallible-hamilton-7b84b2.netlify.app"
+baseURL = "https://beach-home.netlify.app"
 languageCode = "en-us"
 title = "Beach Home | Alina's Personal Blog"
 theme = "parsa-hugo"
